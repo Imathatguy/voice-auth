@@ -1,4 +1,4 @@
-The attatched matlab files are to be placed in the root director of the VGGVox repo:
+The attatched matlab files are to be placed in the root directory of the VGGVox repo:
 
 https://github.com/a-nagrani/VGGVox
 
